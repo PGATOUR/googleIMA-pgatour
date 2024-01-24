@@ -18,7 +18,7 @@ import PackageDescription
 
 let package = Package(
   name: "GoogleInteractiveMediaAds",
-  platforms: [.iOS(.v11)],
+  platforms: [.iOS(.v15)],
   products: [
     .library(
       name: "GoogleInteractiveMediaAds",
